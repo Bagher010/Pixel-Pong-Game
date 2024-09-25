@@ -22,6 +22,11 @@
 - **Enter**: Restart the game.
 - **Escape**: Quit the game.
 
+## Screenshots
+
+![PixelPong Game Screenshot](screenshot.jpg)
+
+
 ## Installation
 Run `PixelPong.exe` to start the game.
 
